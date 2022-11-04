@@ -1,4 +1,4 @@
-@mamezou-tech/setup-helmfile
+@hca-dev/helmfile-action
 ============================
 
 ![CI](https://github.com/mamezou-tech/setup-helmfile/workflows/CI/badge.svg)
